@@ -2,13 +2,13 @@
 # Overview
 This project aims to predict diabetes presence in individuals using various machine learning and deep learning algorithms. Diabetes is a chronic illness with significant health impacts, making accurate prediction valuable in preventative healthcare. This project explores different predictive models and compares their accuracy to improve the predictive ability for diabetes.
 # Table of Contents
-Introduction
-Dataset
-Requirements
-Methodologies
-System Architecture
-Results
-Future Enhancements
+1. Introduction
+2. Dataset
+3. Requirements
+4. Methodologies
+5. System Architecture
+6. Results
+7. Future Enhancements
 # Introduction
 Diabetes prediction is a binary classification problem, where the goal is to classify whether a patient has diabetes based on health metrics. We utilized the Pima Indians Diabetes dataset, containing features such as blood pressure, glucose levels, and BMI, and applied both machine learning and deep learning methods to develop predictive models.
 
