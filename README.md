@@ -18,20 +18,20 @@ The dataset used in this project includes attributes like age, BMI, insulin leve
 # Requirements
 
 ## Hardware
-Processor: Intel Core or AMD equivalent
-RAM: 4 GB
-OS: Windows 7 or above
+1. Processor: Intel Core or AMD equivalent
+2. RAM: 4 GB
+3. OS: Windows 7 or above
 ## Software
-Python 3 or above
-Libraries: Pandas, NumPy, Matplotlib, Sklearn, TensorFlow, Keras
+1. Python 3 or above
+2. Libraries: Pandas, NumPy, Matplotlib, Sklearn, TensorFlow, Keras
 
 # Methodologies
 The following models were implemented and evaluated:
 
-Random Forest
-K-Nearest Neighbor (KNN)
-Gradient Boosting
-Deep Neural Networks (DNN)
+1. Random Forest
+2. K-Nearest Neighbor (KNN)
+3. Gradient Boosting
+4. Deep Neural Networks (DNN)
 
 # System Architecture
 The project workflow includes data preprocessing, training, and evaluation phases. The architecture utilizes deep learning layers (input, hidden, output) and machine learning models for comparative performance analysis.
@@ -42,6 +42,6 @@ The models were evaluated based on accuracy, precision, recall, and other metric
 # Future Enhancements
 ## Future work could involve:
 
-Expanding the dataset to include additional biomarkers.
-Applying advanced deep learning architectures like CNNs and RNNs.
-Optimizing model performance through hyperparameter tuning.
+1. Expanding the dataset to include additional biomarkers.
+2. Applying advanced deep learning architectures like CNNs and RNNs.
+3. Optimizing model performance through hyperparameter tuning.
